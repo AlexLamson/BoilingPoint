@@ -1,7 +1,7 @@
 BoilingPoint
 ============
 
-Java applet to visualize the effects of pressure and temperature on boiling point.
+Java application to visualize the effects of pressure and temperature on boiling point.
 
 To run it, compile all classes and run "BoilingPointAL".
 
